@@ -1,0 +1,7 @@
+POST http://127.0.0.1:8000/feedback
+Content-Type: application/json
+
+{
+  "name": "Alice",
+  "message": "Отличный курс, я многое узнаю, а также закрепляю знания на практике!"
+}
